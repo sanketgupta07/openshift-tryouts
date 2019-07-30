@@ -41,3 +41,13 @@ hello-app-1-rxrvh    1/1     Running     0          11m
 route.route.openshift.io/hello-app exposed
 	
 ```
+
+![App status in openshift project](https://raw.githubusercontent.com/sanketgupta07/openshift-tryouts/master/hello-app-deployment/imgs/ose-app-status.jpg)
+
+![App pod in Openshift](https://raw.githubusercontent.com/sanketgupta07/openshift-tryouts/master/hello-app-deployment/imgs/ose-app-pod.jpg)
+
+![Application route in openshift after exposing service (svc)](https://raw.githubusercontent.com/sanketgupta07/openshift-tryouts/master/hello-app-deployment/imgs/ose-app-route.jpg)
+
+![Application in web browser](https://raw.githubusercontent.com/sanketgupta07/openshift-tryouts/master/hello-app-deployment/imgs/hello-app-page.jpg)
+
+
